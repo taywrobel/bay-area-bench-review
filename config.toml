@@ -3,4 +3,4 @@ languageCode = "en-us"
 title = "Bay Area Bench Review"
 
 [Params]
-  disqusShortname = "bayareabenchreview.disqus.com"
+  disqusShortname = "bayareabenchreview"
