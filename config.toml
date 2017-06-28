@@ -1,0 +1,6 @@
+baseURL = "https://twrobel3.github.io/bay-area-bench-review/"
+languageCode = "en-us"
+title = "Bay Area Bench Review"
+
+[Params]
+  disqusShortname = "bayareabenchreview.disqus.com"
