@@ -475,3 +475,11 @@ nav.paging .right {
   color: #999;
   padding: 0 .5rem;
 }
+
+th {
+  padding: .2rem .5rem;
+}
+
+td {
+  padding: .2rem .5rem;
+}
